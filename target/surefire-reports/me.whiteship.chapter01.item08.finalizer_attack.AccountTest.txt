@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: me.whiteship.chapter01.item08.finalizer_attack.AccountTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.002 s - in me.whiteship.chapter01.item08.finalizer_attack.AccountTest
